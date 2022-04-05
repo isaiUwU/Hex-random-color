@@ -14,7 +14,7 @@
 }
 
 .hex-colors h1{
-    font-size: 2rem;
+    font-size: 2.5rem;
     text-transform: uppercase;
     animation: colorchange 5s infinite 0s alternate;
 }
